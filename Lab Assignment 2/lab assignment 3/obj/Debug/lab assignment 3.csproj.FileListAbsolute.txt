@@ -1,0 +1,6 @@
+C:\Users\AliAlrahem\Desktop\lab assignment 3\lab assignment 3\bin\Debug\lab assignment 3.exe.config
+C:\Users\AliAlrahem\Desktop\lab assignment 3\lab assignment 3\obj\Debug\lab assignment 3.csprojResolveAssemblyReference.cache
+C:\Users\AliAlrahem\Desktop\lab assignment 3\lab assignment 3\bin\Debug\lab assignment 3.exe
+C:\Users\AliAlrahem\Desktop\lab assignment 3\lab assignment 3\bin\Debug\lab assignment 3.pdb
+C:\Users\AliAlrahem\Desktop\lab assignment 3\lab assignment 3\obj\Debug\lab assignment 3.exe
+C:\Users\AliAlrahem\Desktop\lab assignment 3\lab assignment 3\obj\Debug\lab assignment 3.pdb
